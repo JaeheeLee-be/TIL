@@ -33,6 +33,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-06-28-audio-transformation-ai-with-python-and-pytorch](ai-agent/2026-06-28-audio-transformation-ai-with-python-and-pytorch.md)
+
 - [2026-06-26-why-django-was-chosen-for-travelmaker-project](ai-agent/2026-06-26-why-django-was-chosen-for-travelmaker-project.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
