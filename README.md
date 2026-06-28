@@ -24,6 +24,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-06-28-django-drf-custom-exception-handler](python/2026-06-28-django-drf-custom-exception-handler.md)
+
 - [2026-06-28-django-vs-fastapi-comparison](python/2026-06-28-django-vs-fastapi-comparison.md)
 
 - [2026-06-26-why-django-and-postgresql](python/2026-06-26-why-django-and-postgresql.md)
